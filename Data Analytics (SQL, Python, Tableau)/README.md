@@ -80,7 +80,7 @@ Analyzed a Crunchbase startup investment dataset to explore funding distribution
 - Evaluated naming patterns across cleantech startups.
 - Delivered insight-driven queries to support potential investment strategies.
 
---
+---
 
 ## 🚀 Future Plans
 - Expand portfolio with Python-based data visualizations and EDA projects.
