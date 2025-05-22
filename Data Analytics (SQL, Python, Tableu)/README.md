@@ -1,4 +1,4 @@
-# 🧠 Data Analysis Projects Portfolio
+# 🧠 Data Analytics Projects Portfolio
 
 Welcome to my project portfolio! This repository showcases my work on real-world data problems using **SQL**, **Python**, and **Tableau**. Each folder contains a completed project focused on a distinct topic: sports analytics, urban transportation, public safety, etc.
 
