@@ -10,6 +10,23 @@ This repository is a central hub for my technical projects. Each major area of e
 
 ---
 
+## 🎓 Certificates
+
+Here are some of my key professional certificates demonstrating my skills and continuous learning:
+
+| Certificate                                    | Issuer                      | Date Issued   | Description                                  | Link                        |
+|-----------------------------------------------|-----------------------------|---------------|----------------------------------------------|-----------------------------|
+| **Getting Started with Cybersecurity**         | IBM SkillsBuild             | Jan 7, 2025   | Introductory cybersecurity course.           | [View Certificate](https://www.credly.com/badges/3162b96e-e63d-4bb7-98e8-e3308d0919c4/public_url) |
+| **Cybersecurity Fundamentals**                 | IBM SkillsBuild             | Jan 7, 2025   | Core cybersecurity knowledge and skills.     | [View Certificate](https://www.credly.com/badges/1ce4c65f-be18-475a-aa8a-f517ac85774f/public_url) |
+| **Introduction to Information Technology (CS1001)** | Sophia Learning             | May 2, 2025   | Fundamental IT concepts and practices.       | [View Certificate](https://www.credly.com/badges/ad5eed0c-45d0-4f72-a4bd-c37fcb0970a2/public_url) |
+| **The GRAMMYs Project - Website Audience Analysis**  | Global Career Accelerator   | May 12, 2025  | Data analysis project focused on audience metrics. | [View Certificate](https://www.credential.net/67ed07cc-6953-4c52-8567-da0dc0166067#acc.tdDG75AE) |
+| **Intel Project - Data Analysis for Sustainability** | Global Career Accelerator   | March 18, 2025| Data analysis project related to sustainability. | [View Certificate](https://www.credential.net/0ca14821-c0bb-4f93-b3cc-bd6e445b1fd8#acc.WJIvyOKg) |
+| **Intercultural Skills** | Global Career Accelerator   | May 9, 2025   | Developed intercultural communication skills. | [View Certificate](https://www.credential.net/96a9128e-58a3-41b0-beb6-8a44a4d2b3e6#acc.kE7Kyj0r) |
+| **Johnson & Wales University - Coding for Data Track** | Global Career Accelerator   | May 8, 2025   | Completed coding curriculum focused on data (SQL, Python, & Tableau). | [View Certificate](https://www.credential.net/c017975f-cbf6-4b27-ad10-c9aaa722f812#acc.PU6lExQj) |
+| **OSF Triage Certification**                    | OSForensics by PassMark Software | Nov 2024    | Certification in OS forensic analysis tools. | [View Certificate](https://www.linkedin.com/in/jrpalermo/details/certifications/1747939420645/single-media-viewer/?profileId=ACoAAEqtrbYBrUfOWLpVGPrNX8VEFbYvM1Wn1RM) |
+
+---
+
 ## 📂 Projects Overview
 
 The repository is organized into directories by focus area:
