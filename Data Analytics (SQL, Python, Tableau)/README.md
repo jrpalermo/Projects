@@ -56,7 +56,7 @@ Used Transport for London’s RODS survey data to investigate commuting patterns
 Partnered with a mock journalist scenario to analyze causes of vehicle collisions in California, focusing on alcohol and inattention. Presented visual insights using Tableau.
 
 #### Key Highlights:
-- Joined `collisions` and `parties` datasets (940,000+ rows).
+- Joined collisions and parties datasets (940,000+ rows).
 - Identified 33,512 alcohol-related and 18,454 distraction-related at-fault accidents.
 - Discovered Saturdays had the highest alcohol-related crashes.
 - Built Tableau dashboards to visualize accident patterns by time of day.
@@ -80,7 +80,55 @@ Analyzed a Crunchbase startup investment dataset to explore funding distribution
 - Evaluated naming patterns across cleantech startups.
 - Delivered insight-driven queries to support potential investment strategies.
 
---
+---
+
+### 🏀 [ESPN Top Paid Athletes Analysis](./ESPN_Top_Paid_Athletes)
+**Tools Used:** SQL  
+**Topic:** Sports Business | Athlete Earnings  
+**Badge:** 🏅 SQL Specialist
+
+#### Summary:
+Analyzed 10 years of Forbes’ highest-paid athletes data to find earnings trends, peak years, and sport-specific dominance.
+
+#### Key Highlights:
+- Aggregated total earnings by athlete and by sport.
+- Identified record-setting $100M+ single-year payouts.
+- Ranked top 3 earners for selected years.
+- Compared earnings distribution across sports like boxing, football, and basketball.
+
+---
+
+### 📹 [YouTube Trending Video Analysis](./YouTube_Trending_Analysis)
+**Tools Used:** SQL  
+**Topic:** Social Media | Content Engagement  
+**Badge:** 🏅 SQL Specialist
+
+#### Summary:
+Used YouTube trending data to rank and compare videos by likes, dislikes, and comment volume. Explored engagement at scale.
+
+#### Key Highlights:
+- Retrieved most liked, disliked, and commented videos.
+- Queried 10th, 100th, and 1000th most-commented videos using SQL offsets.
+- Demonstrated engagement drop-off beyond top-tier videos.
+- Simple but powerful use of SQL to extract insights from content metrics.
+
+---
+
+### 💻 [Intel Data Center Energy Analysis](./Intel_Data_Center_Analysis)
+**Tools Used:** SQL  
+**Topic:** Sustainability | Energy Infrastructure  
+**Badge:** 🏅 SQL Specialist
+
+#### Summary:
+Analyzed regional energy generation and renewable sourcing at Intel data centers. Joined plant-level data to generation logs.
+
+#### Key Highlights:
+- Ranked regions by net surplus and renewable share.
+- Identified 50+ solar plant regions and calculated their output.
+- Combined fossil and renewable data into a unified structure using `UNION`.
+- Tracked hourly renewable generation in California and the Northwest.
+
+---
 
 ## 🚀 Future Plans
 - Expand portfolio with Python-based data visualizations and EDA projects.
