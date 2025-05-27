@@ -6,10 +6,10 @@ Welcome to my project portfolio! This repository showcases my work on real-world
 
 ## 🏅 Certifications
 
-| Badge                                                                             | Description                                                                                                                                        |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![SQL Specialist](https://img.shields.io/badge/Badge-SQL_Specialist-blue)         | Gained practical experience with professional-level data analysis using SQL. Explored large datasets and joined complex tables to derive insights. |
-| ![Python Specialist](https://img.shields.io/badge/Badge-Python_Specialist-yellow) | Demonstrated proficiency in Python programming for data analysis, including debugging, structuring clean code, and using libraries like `pandas`.  |
+| Badge                                                                                              | Description                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![SQL Specialist](https://img.shields.io/badge/Badge-SQL_Specialist-blue)](https://www.credential.net/12ff1128-e573-4c07-98f3-42e2b3bb2df5#acc.M9WcXfiU)         | Gained practical experience with professional-level data analysis using SQL. Explored large datasets and joined complex tables to derive insights. |
+| [![Python Specialist](https://img.shields.io/badge/Badge-Python_Specialist-yellow)](https://www.credential.net/01e8b734-321f-4da3-9f3a-529e61cafc6d#acc.zlT2Gf1Z) | Demonstrated proficiency in Python programming for data analysis, including debugging, structuring clean code, and using libraries like `Pandas` and `NumPy`.  |
 
 ---
 
