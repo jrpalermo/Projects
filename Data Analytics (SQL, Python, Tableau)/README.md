@@ -18,7 +18,7 @@ Welcome to my project portfolio! This repository showcases my work on real-world
 ### 📊 [NBA Team Performance Analysis](./NBA_Team_Performance)
 **Tools Used:** SQL  
 **Topic:** Sports Analytics | NBA  
-**Badge:** 🏅 Python Specialist
+**Badge:** 🏅 SQL Specialist
 
 #### Summary:
 Analyzed NBA game data (2004–2020) to examine trends in scoring, win rates, and the growing importance of 3-point shooting. The project aimed to uncover the relationship between shooting efficiency and team success.
