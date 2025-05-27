@@ -2,7 +2,7 @@
 
 **Tools Used:** SQL  
 **Topic:** Sports Analytics | Basketball (NBA)  
-**Badge:** 🏅 Python Specialist
+**Badge:** 🏅 SQL Specialist
 
 ## 📘 Overview
 

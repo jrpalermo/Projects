@@ -43,9 +43,9 @@ The repository is organized into directories by focus area:
 
 The `Data Analytics` folder contains a series of projects completed using structured data sets and SQL-based investigation. Each project folder includes:
 
-- A dedicated `README.md`
-- SQL scripts and analysis
-- Tableau dashboards (if applicable)
+- A dedicated `README.md` with overview and highlights
+- SQL scripts (`*.sql`) showcasing query logic
+- Embedded visuals (screenshots of Tableau dashboards)
 
 | Project | Description | Tools |
 |---------|-------------|--------|
@@ -53,6 +53,9 @@ The `Data Analytics` folder contains a series of projects completed using struct
 | [London Underground Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/London_Underground_Analysis) | Explored Tube travel behavior and trip purposes by time of day. | SQL |
 | [California Traffic Collisions](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/California_Collisions) | Investigated crash patterns involving alcohol and distracted driving. | SQL, Tableau |
 | [Crunchbase Investments](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Crunchbase_Investments) | Evaluated startup funding and cleantech sector failures. | SQL |
+| [YouTube Trending Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/YouTube_Trending_Analysis) | Analyzed viewer engagement metrics across trending YouTube videos. | SQL |
+| [ESPN Top Paid Athletes](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/ESPN_Top_Paid_Athletes) | Investigated athlete earnings from 2012–2022 by year and sport. | SQL |
+| [Intel Energy Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Intel_Data_Center_Analysis) | Assessed renewable energy sourcing at Intel’s data centers across regions. | SQL |
 
 ---
 
