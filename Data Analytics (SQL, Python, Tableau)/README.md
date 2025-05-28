@@ -48,7 +48,7 @@ Used Transport for London’s RODS survey data to investigate commuting patterns
 ---
 
 ### 🚗 [California Traffic Collision Analysis](./California_Collisions)
-**Tools Used:** SQL, Tableau  
+**Tools Used:** SQL, Tableau
 **Topic:** Public Safety | Transportation  
 **Badge:** 🏅 SQL Specialist
 
@@ -62,7 +62,7 @@ Partnered with a mock journalist scenario to analyze causes of vehicle collision
 - Built Tableau dashboards to visualize accident patterns by time of day.
 
 📊 **View Tableau Dashboard:**  
-[Traffic Collisions in California – Tableau Workbook](https://prod-useast-b.online.tableau.com/t/globaltech/views/M6TrafficCollisonsinCalifornia-Jackson-Palermo/Instructions?:origin=card_share_link&:embed=n)
+[California Traffic Collision Analysis – Tableau Workbook](https://public.tableau.com/views/1M6_TrafficCollisonsinCalifornia-Jackson-Palermo/Instructions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -83,7 +83,7 @@ Analyzed a Crunchbase startup investment dataset to explore funding distribution
 ---
 
 ### 🏀 [ESPN Top Paid Athletes Analysis](./ESPN_Top_Paid_Athletes)
-**Tools Used:** SQL  
+**Tools Used:** SQL, Tableau
 **Topic:** Sports Business | Athlete Earnings  
 **Badge:** 🏅 SQL Specialist
 
@@ -95,6 +95,9 @@ Analyzed 10 years of Forbes’ highest-paid athletes data to find earnings trend
 - Identified record-setting $100M+ single-year payouts.
 - Ranked top 3 earners for selected years.
 - Compared earnings distribution across sports like boxing, football, and basketball.
+
+📊 **View Tableau Dashboard:**  
+[ESPN Top Paid Athletes Analysis – Tableau Workbook](https://public.tableau.com/views/M3_ESPNsTenYearsofTopTen-Jackson-Palermo/Instructions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -115,7 +118,7 @@ Used YouTube trending data to rank and compare videos by likes, dislikes, and co
 ---
 
 ### 💻 [Intel Data Center Energy Analysis](./Intel_Data_Center_Analysis)
-**Tools Used:** SQL  
+**Tools Used:** SQL, Tableau
 **Topic:** Sustainability | Energy Infrastructure  
 **Badge:** 🏅 SQL Specialist
 
@@ -127,6 +130,9 @@ Analyzed regional energy generation and renewable sourcing at Intel data centers
 - Identified 50+ solar plant regions and calculated their output.
 - Combined fossil and renewable data into a unified structure using `UNION`.
 - Tracked hourly renewable generation in California and the Northwest.
+
+📊 **View Tableau Dashboard:**  
+[Intel Data Center Energy Analysis – Tableau Workbook](https://public.tableau.com/views/IntelDataCenter-Jackson-Palermo/Guide?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

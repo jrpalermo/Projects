@@ -54,8 +54,8 @@ The `Data Analytics` folder contains a series of projects completed using struct
 | [California Traffic Collisions](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/California_Collisions) | Investigated crash patterns involving alcohol and distracted driving. | SQL, Tableau |
 | [Crunchbase Investments](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Crunchbase_Investments) | Evaluated startup funding and cleantech sector failures. | SQL |
 | [YouTube Trending Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/YouTube_Trending_Analysis) | Analyzed viewer engagement metrics across trending YouTube videos. | SQL |
-| [ESPN Top Paid Athletes](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/ESPN_Top_Paid_Athletes) | Investigated athlete earnings from 2012–2022 by year and sport. | SQL |
-| [Intel Energy Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Intel_Data_Center_Analysis) | Assessed renewable energy sourcing at Intel’s data centers across regions. | SQL |
+| [ESPN Top Paid Athletes](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/ESPN_Top_Paid_Athletes) | Investigated athlete earnings from 2012–2022 by year and sport. | SQL, Tableau |
+| [Intel Energy Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Intel_Data_Center_Analysis) | Assessed renewable energy sourcing at Intel’s data centers across regions. | SQL, Tableau |
 
 ---
 

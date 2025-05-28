@@ -37,3 +37,6 @@ It also investigates whether specific sports dominate financially and identifies
 - How to break down long-term earnings trends from structured financial data
 - The power of SQL to isolate outliers and business anomalies
 - That athlete earnings data offers both sports insights and broader financial context
+
+## 📊 **View Tableau Dashboard:**  
+[ESPN Top Paid Athletes Analysis – Tableau Workbook](https://public.tableau.com/views/M3_ESPNsTenYearsofTopTen-Jackson-Palermo/Instructions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

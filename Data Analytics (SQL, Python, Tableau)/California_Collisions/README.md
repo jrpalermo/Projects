@@ -41,3 +41,6 @@ The analysis reveals when and how dangerous driving behaviors tend to occur — 
 - The importance of joining multiple datasets to uncover deeper patterns
 - How to visualize accident trends to support storytelling and decision-making
 - How real-world issues like distracted driving can be quantified with data
+
+## 📊 **View Tableau Dashboard:**  
+[California Traffic Collision Analysis – Tableau Workbook](https://public.tableau.com/views/1M6_TrafficCollisonsinCalifornia-Jackson-Palermo/Instructions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

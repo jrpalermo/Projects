@@ -37,3 +37,6 @@ The project includes plant-level analysis and hourly production trends for selec
 - How to transform raw energy data into decision-ready insights
 - The impact of SQL `JOIN`s and CTEs when analyzing facility-level operations
 - That energy generation patterns can highlight sustainability strengths by region
+
+## 📊 **View Tableau Dashboard:**  
+[Intel Data Center Energy Analysis – Tableau Workbook](https://public.tableau.com/views/IntelDataCenter-Jackson-Palermo/Guide?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
