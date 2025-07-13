@@ -26,13 +26,13 @@ This project investigates a planetary science mystery using NASA weather data. T
 
 ## Visualizations
 
-![Bar chart of the average atmospheric pressure by month](bar%20chart%20of%20the%20average%20atmospheric%20pressure%20by%20month)\
+![Bar chart of the average atmospheric pressure by month](bar%20chart%20of%20the%20average%20atmospheric%20pressure%20by%20month.png)\
 *Bar chart showing the average atmospheric pressure for each month on the mystery planet. This helps reveal seasonal pressure cycles.*
 
-![Line chart of the daily atmospheric pressure by terrestrial date](line%20chart%20of%20the%20daily%20atmospheric%20pressure%20by%20terrestrial%20date)\
+![Line chart of the daily atmospheric pressure by terrestrial date](line%20chart%20of%20the%20daily%20atmospheric%20pressure%20by%20terrestrial%20date.png)\
 *Line chart displaying daily atmospheric pressure over time, highlighting periodic fluctuations and annual cycles.*
 
-![Line chart of the daily minimum temp](line%20chart%20of%20the%20daily%20minimum%20temp)\
+![Line chart of the daily minimum temp](line%20chart%20of%20the%20daily%20minimum%20temp.png)\
 *Line chart showing the daily minimum temperature, which helps identify the coldest and warmest periods on the planet.*
 
 ---
