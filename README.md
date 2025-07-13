@@ -56,6 +56,13 @@ The `Data Analytics` folder contains a series of projects completed using struct
 | [YouTube Trending Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/YouTube_Trending_Analysis) | Analyzed viewer engagement metrics across trending YouTube videos. | SQL |
 | [ESPN Top Paid Athletes](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/ESPN_Top_Paid_Athletes) | Investigated athlete earnings from 2012–2022 by year and sport. | SQL, Tableau |
 | [Intel Energy Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Intel_Data_Center_Analysis) | Assessed renewable energy sourcing at Intel’s data centers across regions. | SQL, Tableau |
+| [Olympics Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Olympics_Analysis) | Explored Olympic medalist demographics, medal distributions, and event statistics. | Python, Pandas, Plotly |
+| [GRAMMYs Website Analytics](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Grammys_Student) | Analyzed web traffic data for The Recording Academy's websites to understand audience behavior. | Python, Pandas, NumPy, Plotly |
+| [Guess The Number Game](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/Guess_The_Number) | Classic number guessing game demonstrating Python logic and user input. | Python |
+| [NCAA Football Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/NCAA_Division_I_Football_Teams) | Explored Division I FBS teams, nicknames, enrollments, and conferences. | Python |
+| [NASA Planetary Mystery](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/NASA_Planetary_Mystery) | Investigated planetary weather data to deduce the identity of a mystery planet. | Python, Pandas, Plotly |
+| [NYC Schools Analysis](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/NYC_Schools_Analysis) | Explored NYC public school data, focusing on enrollment, poverty, and English learners. | Python, Pandas, Plotly |
+| [Hello World Python](./Data%20Analytics%20(SQL,%20Python,%20Tableau)/HelloWorld_Python) | Basic Python programming exercises covering variables, strings, and user input. | Python |
 
 ---
 
